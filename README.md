@@ -11,7 +11,7 @@
   - [Praciting DS & Algos in Python](https://github.com/Tristahu6/Python)
   - [Web Scraping]
 - <b>R</b>
-  - [Projects] 
+  - [Projects](https://github.com/Tristahu6/R) 
 - <b>SQL</b>
   - [T&E Hotel Analysis]
 
