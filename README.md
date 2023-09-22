@@ -1,9 +1,9 @@
 <h1>Hi, I'm Trista! <br/><a href="https://github.com/Tristahu6?tab=repositories">Business Analytics</a>, <a href="https://www.linkedin.com/in/trista-hu-277870165">Project Manager</a></h1>
 
--🔭 Looking for jobs related to Market Analytics, Pricing Analyst or Supply Chain Analytics
--🌱 Pursuing M.S. in Business Analytics at Boston University 
--👯 I’m looking to collaborate on Market Analytics & Data Mining
--📫 Reach me: tristahu@bu.edu
+- 🔭 Looking for jobs related to Market Analytics, Pricing Analyst or Supply Chain Analytics
+- 🌱 Pursuing M.S. in Business Analytics at Boston University 
+- 👯 Looking to collaborate on Market Analytics & Data Mining
+- 📫 Reach me: tristahu@bu.edu
   
 <h2>👨‍💻 Analytical Projects:</h2>
 
