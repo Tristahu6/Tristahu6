@@ -8,10 +8,20 @@
 <h2>👨‍💻 Analytical Projects:</h2>
 
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/Tristahu6/Python)
+  - [DS & Algos in Python](https://github.com/Tristahu6/Python)
+    - Data Exploration & Visualization
+    - Logistic Regression & Random Forest
+    - Market Segmentation & Conjoint Analysis
+    - AB Testing&Statistical Test
+    - Market Analytics Project
   - [Web Scraping]
 - <b>R</b>
-  - [Projects](https://github.com/Tristahu6/R) 
+  - [Exercise in R](https://github.com/Tristahu6/R)
+     - Data Exploration & Visualization
+     - Simple Linear Regression & Multiple Linear Regression
+     - Classification
+     - Association Rules
+     - NYC Real Estate Project
 - <b>SQL</b>
   - [T&E Hotel Analysis]
 
