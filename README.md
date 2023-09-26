@@ -14,7 +14,7 @@
     - Market Segmentation & Conjoint Analysis
     - AB Testing&Statistical Test
     - Market Analytics Project
-  - [Web Scraping]
+  - Web Scraping
 - <b>R</b>
   - [Exercise in R](https://github.com/Tristahu6/R)
      - Data Exploration & Visualization
@@ -23,7 +23,7 @@
      - Association Rules
      - NYC Real Estate Project
 - <b>SQL</b>
-  - [T&E Hotel Analysis]
+  - T&E Hotel Analysis
 
 <h2> 🤳 Connect with me:</h2>
 
