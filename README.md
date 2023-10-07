@@ -10,7 +10,7 @@
 - <b>Python</b>
   - [DS & Algos in Python](https://github.com/Tristahu6/Python)
     - Data Exploration & Visualization
-    - Logistic Regression & Random Forest
+    - [Classification - Employee Attrition Analysis](https://github.com/Tristahu6/Classification-Demo_Employee-Attrition-Analysis_Python)
     - Market Segmentation & Conjoint Analysis
     - AB Testing&Statistical Test
     - Market Analytics Project
