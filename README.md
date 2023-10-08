@@ -10,7 +10,8 @@
 - <b>Python</b>
   - [DS & Algos in Python](https://github.com/Tristahu6/Python)
     - Data Exploration & Visualization
-    - [Classification - Employee Attrition Analysis](https://github.com/Tristahu6/Classification-Demo_Employee-Attrition-Analysis_Python)
+    - [Classification - Project Employee Attrition Analysis](https://github.com/Tristahu6/Classification-Demo_Employee-Attrition-Analysis_Python)
+    - [Time Series - Project BeiGene Stock Analysis and Forecast](https://github.com/Tristahu6/BeiGene-Stock-Time-Series-Analysis)
     - Market Segmentation & Conjoint Analysis
     - AB Testing&Statistical Test
     - Market Analytics Project
