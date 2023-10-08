@@ -13,7 +13,7 @@
     - [Classification - Project Employee Attrition Analysis](https://github.com/Tristahu6/Classification-Demo_Employee-Attrition-Analysis_Python)
     - [Time Series - Project BeiGene Stock Analysis and Forecast](https://github.com/Tristahu6/BeiGene-Stock-Time-Series-Analysis)
     - Market Segmentation & Conjoint Analysis
-    - AB Testing&Statistical Test
+    - [A/B Testing & Statistical Test - Project Sales Promotion Strategies](https://github.com/Tristahu6/AB-Testing-Sales-Promotion-Strategies)
     - Market Analytics Project
   - Web Scraping
 - <b>R</b>
