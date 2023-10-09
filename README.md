@@ -13,7 +13,6 @@
     - Data Exploration & Visualization
     - [Classification - Project Employee Attrition Analysis](https://github.com/Tristahu6/Classification-Demo_Employee-Attrition-Analysis_Python)
     - [Time Series - Project BeiGene Stock Analysis and Forecast](https://github.com/Tristahu6/BeiGene-Stock-Time-Series-Analysis)
-    - Market Segmentation & Conjoint Analysis
     - [A/B Testing & Statistical Test - Project Sales Promotion Strategies](https://github.com/Tristahu6/AB-Testing-Sales-Promotion-Strategies)
     - Web Scraping
 - <b>R</b>
