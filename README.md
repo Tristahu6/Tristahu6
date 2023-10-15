@@ -24,6 +24,7 @@
      - NYC Real Estate Project
 - <b>SQL</b>
   - T&E Hotel Analysis
+  - [BellaBeat Case Analysis](https://github.com/Tristahu6/BellaBeat_Case_Analysis_SQL)
 
 <h2> 🤳 Connect with me:</h2>
 
